@@ -7,6 +7,6 @@ cd apis >> npm install >> npm start
 
 cd todo-app >> npm install >> ng serve
 
-# Outpout
+# Output
 
 App running on localhost:4200 & Server running at localhost:4000/api
